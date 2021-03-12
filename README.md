@@ -22,11 +22,11 @@ urls:
 
 /categories: EndPoint Categories
 
-/cities: Endpoint cities
+/cities: Endpoint Cities
 
-/properties: Endpoint properties
+/properties: Endpoint Properties
 
-/transaction: Endpoint transaction
+/transaction: Endpoint Transaction
 
-/transaction_propertytypes: Endpoint transaction backup
+/transaction_propertytypes: Endpoint Transaction backup
 
